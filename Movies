@@ -18,17 +18,17 @@
 #EXTINF:-47,
 #EXTINF:-47,
 #EXTINF:-47,
-#EXTINF:-47,
-#EXTINF:-47,
-#EXTINF:-47,
+#EXTINF:-1 tvg-name="" tvg-logo="", group-title="",
+#EXTINF:-1 tvg-name="" tvg-logo="", group-title="",
+#EXTINF:-1 tvg-name="" tvg-logo="", group-title="",
 
-#EXTINF:-47,tvg-name="Shang Chi And the Legend Of The Ten Rings 2021"tvg-logo="http://cdn.emasti.pk/images/stories/movies/eng/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",
+#EXTINF:-1 tvg-name="Shang Chi And the Legend Of The Ten Rings 2021"tvg-logo="http://cdn.emasti.pk/images/stories/movies/eng/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg" group-title= Hindi Dubbed,
 http://ndl2.emasti.pk/engurd/Shang-Chi-and-the-Legend-of-the-Ten-Rings-2021-CAMRip-Hindi-English.mkv
 
 #EXTINF:-47,The-Tower-2012
 http://ndl.emasti.pk/engurd/The-Tower-2012-HDRip-Hindi-Dubbed.mp4
 
-#EXTINF:-47,HELMET-2021
+#EXTINF:-1 tvg-name="Helmet 2021" tvg-logo="http://cdn.emasti.pk/images/stories/movies/ind/jx0dug8xdAVP6insxW2kBcO2LUO.jpg", group-title="Indian Movies",
 http://ndl3.emasti.pk/ind/G-H/HELMET-2021-HDRip.mp4
 
 #EXTINF:-47,Manoranjan-1974
