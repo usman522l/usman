@@ -44,14 +44,14 @@
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Indian Movies",
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Pakistani Movies",
-Script
-#EXTINF:-1 tvg-name="Shang Chi Legend 2021" tvg-logo="http://cdn.emasti.pk/images/stories/movies/eng/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg" group-title="Hindi Dubbed",
+
+#EXTINF:-1 Shang Chi tvg-name="Shang Chi Legend 2021" tvg-logo="http://cdn.emasti.pk/images/stories/movies/eng/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg" group-title="Hindi Dubbed",
 http://ndl2.emasti.pk/engurd/Shang-Chi-and-the-Legend-of-the-Ten-Rings-2021-CAMRip-Hindi-English.mkv
 
 #EXTINF:-1 tvg-name="The-Power-2021" tvg-logo="http://cdn.emasti.pk/images/stories/movies/eng/puqjyTc3TYUARgHxzVjscKJkKX9.jpg" group-title="Hindi Dubbed",
 http://odl1.emasti.pk/rp/engurd/The-Power-2021-HDRip-Hindi-English.mkv
 
-#EXTINF:-1 tvg-name="Helmet 2021" tvg-logo="http://cdn.emasti.pk/images/stories/movies/ind/jx0dug8xdAVP6insxW2kBcO2LUO.jpg" group-title="Indian Movies",
+#EXTINF:-1 tvg-name="Helmet 2021" tvg-logo-small="http://cdn.emasti.pk/images/stories/movies/ind/jx0dug8xdAVP6insxW2kBcO2LUO.jpg" group-title="Indian Movies",
 http://ndl3.emasti.pk/ind/G-H/HELMET-2021-HDRip.mp4
 
 #EXTINF:-1 tvg-name="Manoranjan-1974" tvg-logo="http://cdn.emasti.pk/images/stories/movies/ind/4h0SLKWOyXsL9rKI0YPPuWQn6Qy.jpg" group-title="Indian Movies",
