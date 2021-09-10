@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF:-1 ,北京IPTV 4K超清 [4K]
+rtp://239.3.1.249:8001
+#EXTINF:-1 ,爱上4K [4K]
+rtp://239.3.1.236:2000
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="1" tvg-name="CCTV1" group-title="央视",CCTV-1综合 [1080p]
+rtp://239.3.1.129:8008
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-id="2" tvg-name="CCTV2" group-title="央视",CCTV-2财经 [1080p]
+rtp://239.3.1.60:8084
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-id="3" tvg-name="CCTV3" group-title="央视",CCTV-3综艺 [1080p]
+rtp://239.3.1.172:8001
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-id="4" tvg-name="CCTV4" group-title="央视",CCTV-4中文国际 [1080p]
+rtp://239.3.1.105:8092
+
+
+
 #EXTINF:-1 tvg-logo="http://cdn.emasti.pk/images/stories/movies/eng/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg" tvg-id="10" tvg-name="Shang Chi Legend 2021" group-title="Hindi Dubbed",Shang Chi
 http://ndl2.emasti.pk/engurd/Shang-Chi-and-the-Legend-of-the-Ten-Rings-2021-CAMRip-Hindi-English.mkv
 
