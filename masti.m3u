@@ -24,7 +24,7 @@ http://ndl3.emasti.pk/ind/K-L/Lines-2021-HDRip.mp4
 #EXTINF:-1 tvg-name="The-Power-2021" tvg-logo="http://cdn.emasti.pk/images/stories/movies/eng/.jpg" group-title=" Hindi Dubbed",The Power 2021
 http://odl1.emasti.pk/rp/engurd/The-Power-2021-HDRip-Hindi-English.mkv
 
-#EXTINF:-47,Power-Rangers-2017
+EXTINF:-1 tvg-name="Power-Rangers-2017" tvg-logo="" group-title="Hindi Dubbed",Power-Rangers-2017
 http://dm01.emasti.pk/engurd/Power-Rangers-2017-BRRip-Hindi-English.mkv
 
 #EXTINF:-47,Power-Unlimited-2-2018-HDR
