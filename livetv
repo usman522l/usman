@@ -82,6 +82,8 @@ http://watch.emasti.pk/stream/nick/playlist.m3u8
 http://watch.emasti.pk/stream/ptvbolan/playlist.m3u8
 #EXTINF:-41,PTV HOME
 http://watch.emasti.pk/stream/ptvhome/playlist.m3u8
+#EXTINF:-42,A Sports
+http://watch.emasti.pk/live/asportshd/tracks-v1a1/mono.m3u8
 #EXTINF:-42,PTV SPORTS
 http://watch.emasti.pk/stream/ptvsports/playlist.m3u8
 #EXTINF:-43,PUBLIC TV
