@@ -48,6 +48,8 @@ http://watch.emasti.pk/stream/aplus/playlist.m3u8
 http://watch.emasti.pk/stream/AryDigital/playlist.m3u8
 #EXTINF:-23,ARY ZINDAGI
 http://watch.emasti.pk/stream/AryZindagi/playlist.m3u8
+EXTINF:-24, Star Utsav
+http://smartmedia.watch:2086/live/643927/892349/131404.ts
 #EXTINF:-24,ATV
 http://watch.emasti.pk/stream/atv/playlist.m3u8
 #EXTINF:-25,BEIN1 TV
