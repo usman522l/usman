@@ -28,7 +28,6 @@ http://odl3.emasti.pk/mx/pk/Heer-Maan-Ja-2019-HDRip.mp4
 #EXTINF:-1 tvg-name=""tvg-logo="",
 #EXTINF:-1 tvg-name=""tvg-logo="",
 #EXTINF:-1 tvg-name=""tvg-logo="",
-#EXTINF:-1 tvg-name=""tvg-logo="",
 
 
 
@@ -41,6 +40,10 @@ http://odl3.emasti.pk/mx/pk/Heer-Maan-Ja-2019-HDRip.mp4
 
 
 
+
+
+#EXTINF:-1 tvg-name=""tvg-logo="",Thar
+http://dm01.dmasti.pk/ind/S-T/Thar-2022-HDRip.mkv
 #EXTINF:-1 tvg-name=""tvg-logo="",Frendship
 http://ndl.emasti.pk/SID/Friendship-2021-HDRip.mp4
 #EXTINF:-1 tvg-name=""tvg-logo="",Runway 34
@@ -192,12 +195,15 @@ http://ndl2.emasti.pk/panjabi/Kuriya-Jawan-Bapu-Preshaan-2021-HDRip.mp4
 #EXTINF:-1 tvg-name="" tvg-logo="",
 #EXTINF:-1 tvg-name="" tvg-logo="",
 #EXTINF:-1 tvg-name="" tvg-logo="",
-#EXTINF:-1 tvg-name="" tvg-logo="",
 
 
 
 
 
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="",Galwakdi
+http://dm01.dmasti.pk/panjabi/Galwakdi-2022-HDRip.mp4
 #EXTINF:-1 tvg-name="" tvg-logo="",Shava Ni Girdhari Lal
 http://cdn01.emasti.pk/panjabi/Shava-Ni-Girdhari-Lal-2021-HDRip.mp4
 #EXTINF:-1 tvg-name="" tvg-logo="",Kade haan Kade Naa
