@@ -27,7 +27,6 @@ http://odl3.emasti.pk/mx/pk/Heer-Maan-Ja-2019-HDRip.mp4
 #EXTINF:-1 tvg-name=""tvg-logo="",
 #EXTINF:-1 tvg-name=""tvg-logo="",
 #EXTINF:-1 tvg-name=""tvg-logo="",
-#EXTINF:-1 tvg-name=""tvg-logo="",
 
 
 
@@ -41,7 +40,8 @@ http://odl3.emasti.pk/mx/pk/Heer-Maan-Ja-2019-HDRip.mp4
 
 
 
-
+#EXTINF:-1 tvg-name=""tvg-logo="",Good Achari
+http://dm01.dmasti.pk/SID/Goodachari-2018-HDRip.mp4
 #EXTINF:-1 tvg-name=""tvg-logo="",Thar
 http://dm01.dmasti.pk/ind/S-T/Thar-2022-HDRip.mkv
 #EXTINF:-1 tvg-name=""tvg-logo="",Frendship
