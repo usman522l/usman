@@ -46,8 +46,6 @@ http://odl3.emasti.pk/mx/pk/Heer-Maan-Ja-2019-HDRip.mp4
 #EXTINF:-1 tvg-name=""tvg-logo="",
 #EXTINF:-1 tvg-name=""tvg-logo="",
 
-#EXTINF:-1 tvg-name=""tvg-logo="",
-#EXTINF:-1 tvg-name=""tvg-logo="",
 
 
 
@@ -58,7 +56,10 @@ http://odl3.emasti.pk/mx/pk/Heer-Maan-Ja-2019-HDRip.mp4
 
 
 
-
+#EXTINF:-1 tvg-name=""tvg-logo="",12 Man
+http://cdn01.dmasti.pk/tamil/12Th-Man-2022-HDRip-Unofficial-Dubbed.mp4
+#EXTINF:-1 tvg-name=""tvg-logo="",o2
+http://cdn01.dmasti.pk/tamil/O2-2022-HDRip-Unofficial-Dubbed.mp4
 
 #EXTINF:-1 tvg-name=""tvg-logo="",Dhaakad
 http://ndl.dmasti.pk/ind/C-D/Dhaakad-2022-HDRip.mp4
@@ -289,8 +290,8 @@ http://odl3.emasti.pk/mx/Punjabi/Tu-Mera-Ki-Lagda-2019-HDRip.mp4
 
 #EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="",Thor Love and Thunder
+http://dm01.dmasti.pk/engurd/Thor-Love-and-Thunder-2022-CAMRip-Hin-Eng.mkv
 #EXTINF:-1 tvg-logo="",Train To Busan 1
 http://dm01.dmasti.pk/engurd/Train-to-Busan-2016-HDRip-Hindi-Eng.mkv
 #EXTINF:-1 tvg-logo="",Train To Busan 2
