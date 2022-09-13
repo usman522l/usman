@@ -1,101 +1,150 @@
-#EXTINF:-1,S cricket
-http://smartmedia.watch:2086/live/643927/892349/93590.ts
-#EXTINF:-1,ALQURAN
-http://watch.emasti.pk/stream/alquran/playlist.m3u8
-#EXTINF:-2,ALSUNAH
-http://watch.emasti.pk/stream/alsunah/playlist.m3u8
-#EXTINF:-3,ALJAZIRA
-http://watch.emasti.pk/stream/aljaz/playlist.m3u8
-#EXTINF:-4,QTV
-http://watch.emasti.pk/stream/qtv/playlist.m3u8
-#EXTINF:-5,MADNI CHANNEL
-http://watch.emasti.pk/stream/madanichannel/playlist.m3u8
-#EXTINF:-6,Geo News
-http://watch.emasti.pk/stream/geonews/playlist.m3u8
-#EXTINF:-7,PTV NEWS
-http://watch.emasti.pk/stream/ptvnews/playlist.m3u8
-#EXTINF:-8,PTV GLOBAL
-http://watch.emasti.pk/stream/ptvglobal/playlist.m3u8
-#EXTINF:-9,ARY NEWS
-http://watch.emasti.pk/stream/arynews/playlist.m3u8
-#EXTINF:-10,24 NEWS HD
-http://watch.emasti.pk/stream/24newshd/playlist.m3u8
-#EXTINF:-11,DAWN NEWS
-http://watch.emasti.pk/stream/dawnnews/playlist.m3u8
-#EXTINF:-12,EXPRESS NEWS
-http://watch.emasti.pk/stream/expressnews/playlist.m3u8
-#EXTINF:-13,DUNYA NEWS
-http://watch.emasti.pk/stream/dunyanews/playlist.m3u8
-#EXTINF:-14,Aaj NEWS HD
-http://watch.emasti.pk/stream/aajnews/playlist.m3u8
-#EXTINF:-15,92 NEWS HD
-http://watch.emasti.pk/stream/92newshd/playlist.m3u8
-#EXTINF:-16,BOL NEWS
-http://watch.emasti.pk/stream/bolnews/playlist.m3u8
-#EXTINF:-17,8XM
-http://watch.emasti.pk/stream/8xm/playlist.m3u8
-#EXTINF:-17,9XM
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-18,Jalwa
-http://watch.emasti.pk/stream/jalwa/playlist.m3u8
-#EXTINF:-19,24 BD HD
-http://watch.emasti.pk/stream/24b/playlist.m3u8
-#EXTINF:-20,Aruj Tv
-http://watch.emasti.pk/stream/aruj/playlist.m3u8
-#EXTINF:-21,A PLUS
-http://watch.emasti.pk/stream/aplus/playlist.m3u8
-#EXTINF:-22,Ary Digital
-http://watch.emasti.pk/stream/AryDigital/playlist.m3u8
-#EXTINF:-23,ARY ZINDAGI
-http://watch.emasti.pk/stream/AryZindagi/playlist.m3u8
-EXTINF:-24, Star Utsav
-http://smartmedia.watch:2086/live/643927/892349/131404.ts
-#EXTINF:-24,ATV
-http://watch.emasti.pk/stream/atv/playlist.m3u8
-#EXTINF:-25,BEIN1 TV
-http://watch.emasti.pk/stream/bein1/playlist.m3u8
-#EXTINF:-26,BEIN2 TV
-http://watch.emasti.pk/stream/bein2/playlist.m3u8
-#EXTINF:-27,CARTOON NETWORK
-http://watch.emasti.pk/stream/cartoonnetwork/playlist.m3u8
-#EXTINF:-28,CINE KIDS
-http://watch.emasti.pk/stream/cinekids/playlist.m3u8
-#EXTINF:-29,EXPRESS ENTERTAINMENT
-http://watch.emasti.pk/stream/expressent/playlist.m3u8
-#EXTINF:-30,GEO KAHANI
-http://watch.emasti.pk/stream/geokahani/playlist.m3u8
-#EXTINF:-31,GEO SUPER
-http://watch.emasti.pk/stream/geosuper/playlist.m3u8
-#EXTINF:-32,GEO TAZZ
-http://watch.emasti.pk/stream/geotazz/playlist.m3u8
-#EXTINF:-33,Play Tv
-http://watch.emasti.pk/stream/playtv/playlist.m3u8
-#EXTINF:-34,KTN KASHISH
-http://watch.emasti.pk/ktn/kashish/playlist.m3u8
-#EXTINF:-35,KTN KTN
-http://watch.emasti.pk/ktn/ktn/playlist.m3u8
-#EXTINF:-36,MIFA MUSIC HD
-http://watch.emasti.pk/stream/mifa/playlist.m3u8
-#EXTINF:-37,MBC ACTION
-http://watch.emasti.pk/stream/mbc5/playlist.m3u8
-#EXTINF:-38,MBC CARTOON
-http://watch.emasti.pk/stream/mbccartoon/playlist.m3u8
-#EXTINF:-39,NICK TV
-http://watch.emasti.pk/stream/nick/playlist.m3u8
-#EXTINF:-40,PTV BOLAN
-http://watch.emasti.pk/stream/ptvbolan/playlist.m3u8
-#EXTINF:-41,PTV HOME
-http://watch.emasti.pk/stream/ptvhome/playlist.m3u8
-#EXTINF:-42,A Sports
-http://watch.emasti.pk/live/asportshd/tracks-v1a1/mono.m3u8
-#EXTINF:-42,PTV SPORTS
-http://watch.emasti.pk/stream/ptvsports/playlist.m3u8
-#EXTINF:-43,PUBLIC TV
-http://watch.emasti.pk/stream/publictv/playlist.m3u8
-#EXTINF:-44,TEN SPORTS
-http://watch.emasti.pk/stream/tensports/playlist.m3u8
-#EXTINF:-45,URDU TV
-http://watch.emasti.pk/stream/urdu1/playlist.m3u8
-#EXTINF:-46,OSN MACT
-http://watch.emasti.pk/stream/osnmact/playlist.m3u8
 
+            #EXTINF:-11,PTV SPORTS
+                http://103.24.96.74/stream/ptvsports/tracks-v1a1/mono.m3u8
+            
+            #EXTINF:-1,Al Quran
+              http://103.24.96.74/stream/alquran/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-2,Al Sunna
+               http://103.24.96.74/stream/alsunah/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-3,ARY Qtv
+               http://103.24.96.74/stream/qtv/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-4,Madani Channel
+               http://103.24.96.74/stream/madanichannel/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-11,PTV Sports
+               http://103.24.96.74/stream/ptvsports/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-21,92 News HD
+               http://103.24.96.74/stream/92newshd/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-12,A Sports HD
+               http://103.24.96.74/stream/asportshd/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-22,Aaj News
+               http://103.24.96.74/stream/aajnews/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-5,APlus
+               http://103.24.96.74/stream/aplus/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-6,Aruj TV
+               http://103.24.96.74/stream/aruj/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:- 7,ARY Digital
+               http://103.24.96.74/stream/AryDigital/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:- 8,Ary Musik
+               http://103.24.96.74/stream/musik/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-23,ARY News
+               http://103.24.96.74/stream/arynews/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-9,Ary Zindagi
+               http://103.24.96.74/stream/AryZindagi/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-10,ATv
+               http://103.24.96.74/stream/atv/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-15,AVT Khyber
+               http://103.24.96.74/stream/khybertv/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-16,BOL Entertainment
+               http://103.24.96.74/stream/bolent/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:- 24,Bol News
+               http://103.24.96.74/stream/bolnews/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-17,Cartoon Network HD
+               http://103.24.96.74/stream/cartoonnetwork/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-18,Cinemachi Kids
+               http://103.24.96.74/stream/cinekids/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-25,Dawn News
+               http://103.24.96.74/stream/dawnnews/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-26,Dunya News
+               http://103.24.96.74/stream/dunyanews/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-19,Express ENT
+               http://103.24.96.74/stream/expressent/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-27,Express News
+               http://103.24.96.74/stream/expressnews/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-20,Filmax
+               http://103.24.96.74/stream/filmax/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-31,FilmWorld
+               http://103.24.96.74/stream/filmworld/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-32,GEO Kahani
+               http://103.24.96.74/stream/geokahani/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-28,Geo News
+               http://103.24.96.74/stream/geonews/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-33,Geo Super
+               http://103.24.96.74/stream/geosuper/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-34,Geo Tazz
+               http://103.24.96.74/stream/geotazz/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-35,Geo Television
+               http://103.24.96.74/stream/geoent/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-36,GNN News
+               http://103.24.96.74/stream/gnn/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-29,Hum News
+               http://103.24.96.74/stream/humnews/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-37,  Hum Sitaray
+               http://103.24.96.74/stream/humsitaray/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-38,  Hum TV
+               http://103.24.96.74/stream/humtv/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-39,  KidZone+ HD
+               http://103.24.96.74/stream/kidzone/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-30,  KTN News
+               http://103.24.96.74/ktn/ktnnews/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-40,  Masala Tv
+               http://103.24.96.74/stream/masalatv/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-41,  Nickelodeon
+               http://103.24.96.74/stream/nick/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-42,  Play Ent
+               http://103.24.96.74/stream/playtv/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-43,  PoP
+               http://103.24.96.74/stream/pop/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-44,  Ptv Bolan
+               http://103.24.96.74/stream/ptvbolan/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-45,  Ptv Global
+               http://103.24.96.74/stream/ptvglobal/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-46,  Ptv Home
+               http://103.24.96.74/stream/ptvhome/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-31,  PTv News
+               http://103.24.96.74/stream/ptvnews/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:- 13,  Ten Sports
+               http://103.24.96.74/stream/tensports/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-47,  TVONE
+               http://103.24.96.74/stream/tvone/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-48,  Urdu 1
+               http://103.24.96.74/stream/urdu1/tracks-v1a1/mono.m3u8
+	
+            #EXTINF:-49,  WASEB
+               http://103.24.96.74/stream/waseb/tracks-v1a1/mono.m3u8
