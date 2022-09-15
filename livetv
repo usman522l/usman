@@ -1,6 +1,6 @@
 
             #EXTINF:-1,Seema
-	    file://192.168.2.1/media/Na%20Umar%20ki%20seema%20ho/3rd%20August%202022%20Episode%208.mp4
+	    http://192.168.2.1/media/Na%20Umar%20ki%20seema%20ho/3rd%20August%202022%20Episode%208.mp4
 	    
 	    #EXTINF:-11,PTV SPORTS
                 http://103.24.96.74/stream/ptvsports/tracks-v1a1/mono.m3u8
