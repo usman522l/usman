@@ -1,35 +1,41 @@
 #EXTM3U
-#EXTINF:1271,27th September 2022 Episode 55.mp4
-http://192.168.52.7/27th%20September%202022%20Episode%2055.mp4
-#EXTINF:1258,26th September 2022 Episode 54.mp4
-http://192.168.52.7/26th%20September%202022%20Episode%2054.mp4
-#EXTINF:1280,24th September 2022 Episode 53.mp4
-http://192.168.52.7/24th%20September%202022%20Episode%2053.mp4
-#EXTINF:1261,23rd September 2022 Episode 52.mp4
-http://192.168.52.7/23rd%20September%202022%20Episode%2052.mp4
-#EXTINF:1256,22nd September 2022 Episode 51.mp4
-http://192.168.52.7/22nd%20September%202022%20Episode%2051.mp4
-#EXTINF:1267,21st September 2022 Episode 50.mp4
-http://192.168.52.7/21st%20September%202022%20Episode%2050.mp4
-#EXTINF:1252,20th September 2022 Episode 49.mp4
-http://192.168.52.7/20th%20September%202022%20Episode%2049.mp4
-#EXTINF:1271,19th September 2022 Episode 48.mp4
-http://192.168.52.7/19th%20September%202022%20Episode%2048.mp4
-#EXTINF:1252,17th September 2022 Episode 47.mp4
-http://192.168.52.7/17th%20September%202022%20Episode%2047.mp4
-#EXTINF:1268,16th September 2022 Episode 46.mp4
-http://192.168.52.7/16th%20September%202022%20Episode%2046.mp4
-#EXTINF:1261,28th September 2022 Episode 56.mp4
-http://192.168.52.7/28th%20September%202022%20Episode%2056.mp4
+#EXTINF:1242,8th October 2022 Episode 65.mp4
+http://192.168.8.251/8th%20October%202022%20Episode%2065.mp4
+#EXTINF:1251,7th October 2022 Episode 64.mp4
+http://192.168.8.251/7th%20October%202022%20Episode%2064.mp4
+#EXTINF:1291,6th October 2022 Episode 63.mp4
+http://192.168.8.251/6th%20October%202022%20Episode%2063.mp4
 #EXTINF:1261,5th October 2022 Episode 62.mp4
-http://192.168.52.7/5th%20October%202022%20Episode%2062.mp4
-#EXTINF:1253,1st October 2022 Episode 59.mp4
-http://192.168.52.7/1st%20October%202022%20Episode%2059.mp4
-#EXTINF:1261,3rd October 2022 Episode 60.mp4
-http://192.168.52.7/3rd%20October%202022%20Episode%2060.mp4
+http://192.168.8.251/5th%20October%202022%20Episode%2062.mp4
 #EXTINF:1261,4rd October 2022 Episode 61.mp4
-http://192.168.52.7/4rd%20October%202022%20Episode%2061.mp4
+http://192.168.8.251/4rd%20October%202022%20Episode%2061.mp4
+#EXTINF:1261,3rd October 2022 Episode 60.mp4
+http://192.168.8.251/3rd%20October%202022%20Episode%2060.mp4
+#EXTINF:1253,1st October 2022 Episode 59.mp4
+http://192.168.8.251/1st%20October%202022%20Episode%2059.mp4
 #EXTINF:1261,30th September 2022 Episode 58.mp4
-http://192.168.52.7/30th%20September%202022%20Episode%2058.mp4
+http://192.168.8.251/30th%20September%202022%20Episode%2058.mp4
 #EXTINF:1251,29th September 2022 Episode 57.mp4
-http://192.168.52.7/29th%20September%202022%20Episode%2057.mp4
+http://192.168.8.251/29th%20September%202022%20Episode%2057.mp4
+#EXTINF:1261,28th September 2022 Episode 56.mp4
+http://192.168.8.251/28th%20September%202022%20Episode%2056.mp4
+#EXTINF:1271,27th September 2022 Episode 55.mp4
+http://192.168.8.251/27th%20September%202022%20Episode%2055.mp4
+#EXTINF:1280,24th September 2022 Episode 53.mp4
+http://192.168.8.251/24th%20September%202022%20Episode%2053.mp4
+#EXTINF:1261,23rd September 2022 Episode 52.mp4
+http://192.168.8.251/23rd%20September%202022%20Episode%2052.mp4
+#EXTINF:1256,22nd September 2022 Episode 51.mp4
+http://192.168.8.251/22nd%20September%202022%20Episode%2051.mp4
+#EXTINF:1267,21st September 2022 Episode 50.mp4
+http://192.168.8.251/21st%20September%202022%20Episode%2050.mp4
+#EXTINF:1252,20th September 2022 Episode 49.mp4
+http://192.168.8.251/20th%20September%202022%20Episode%2049.mp4
+#EXTINF:1252,17th September 2022 Episode 47.mp4
+http://192.168.8.251/17th%20September%202022%20Episode%2047.mp4
+#EXTINF:1271,19th September 2022 Episode 48.mp4
+http://192.168.8.251/19th%20September%202022%20Episode%2048.mp4
+#EXTINF:1258,26th September 2022 Episode 54.mp4
+http://192.168.8.251/26th%20September%202022%20Episode%2054.mp4
+#EXTINF:1268,16th September 2022 Episode 46.mp4
+http://192.168.8.251/16th%20September%202022%20Episode%2046.mp4
