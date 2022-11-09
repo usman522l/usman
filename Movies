@@ -9,7 +9,12 @@
 
 
 
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Kids Movies",Luck
+http://odl3.dmasti.pk/mx/kc/Luck-2022-HDRip-Hin-Eng.mkv
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",V1 Murder
 http://odl2.dmasti.pk/mm/SID/V1-Murder-Case-2019-HDRip.mp4
@@ -17,7 +22,7 @@ http://odl2.dmasti.pk/mm/SID/V1-Murder-Case-2019-HDRip.mp4
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",suryakantham
 http://odl2.dmasti.pk/mm/SID/Suryakantham-2019-HDRip.mp4
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",Ghost
 http://odl2.dmasti.pk/mm/SID/The-Ghost-2022-HDRip.mp4
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",Tadka
