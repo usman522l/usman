@@ -1,4 +1,4 @@
-       #EXTM3U,
+  .            #EXTM3U,
 
 
 
@@ -9,11 +9,22 @@
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",Hero
+http://odl2.dmasti.pk/mm/SID/Hero-2022-HDRip.mp4
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",Rorschach
+http://ndl2.dmasti.pk/tamil/Rorschach-2022-HDRip.mp4
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",Creepers reborn
+http://dm01.dmasti.pk/engurd/Jeepers-Creepers-Reborn-2022-HDRip-Hindi-English.mkv
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",Clash of Titans
+http://odl1.dmasti.pk/sx/engurd/Clash-of-the-Titans-2010-HDRip-Hindi-English.mkv
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",Wrath of Titans
+http://ndl3.dmasti.pk/engurd/Wrath-of-the-Titans-2012-HDRip-Hindi-English.mkv
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Remember you
 http://ndl2.dmasti.pk/engurd/I%20Remember%20You%202017-HDRip-Hindi-Dubbed.mp4
 
