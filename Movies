@@ -1051,7 +1051,11 @@ http://dm01.dmasti.pk/tv/LOTR/S01/The-Lord-of-the-Rings-The-Rings-of-Power-S01-E
 	
             #EXTINF:-49 tvg-name="WASEB" tvg-logo="" group-title=" Live Tv",  WASEB
                http://103.24.96.74/stream/waseb/tracks-v1a1/mono.m3u8
-
-
-
-
+		
+		
+		
+		
+            #EXTINF:-49 tvg-name="" tvg-logo="" group-title=" Mobile Apps",  Android
+		https://drive.google.com/drive/folders/1aZiQIKjXmhQ-k-6ORDAmhH2uSyX6YJTg?usp=share_link
+		
+		
