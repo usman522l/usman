@@ -14,20 +14,21 @@
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Taxi 3
-http://odl2.dmasti.pk/mm/engurd/Taxi-3-2003-BRRip-Hindi-French.mkv
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",Taxi wala
+http://odl3.dmasti.pk/dw/SID/Taxiwala-2018-HDRip.mp4
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Taxi 3
+http://odl2.dmasti.pk/mm/engurd/Taxi-3-2003-BRRip-Hindi-French.mkv
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",Thank God
-http://192.168.8.72/Thank-God-2022-HDRip.mp4
 http://ndl2.dmasti.pk/ind/S-T/Thank-God-2022-HDRip.mp4
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",Blurr
 http://ndl.dmasti.pk/ind/A-B/Blurr-2022-HDRip.mp4
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",Yashoda
-http://192.168.8.72/Yashoda-2022-HDRip.mp4
 http://ndl2.dmasti.pk/tamil/Yashoda-2022-HDRip.mp4
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Pakistani Movies",Chupan Chupai
