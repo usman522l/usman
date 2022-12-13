@@ -20,7 +20,18 @@
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Descendant
+http://ndl2.dmasti.pk/Documentary/Descendant-2022-HDRip-Hin-Eng.mkv
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Descendants 3
+http://odl1.dmasti.pk/sx/engurd/Descendants-3-2019-HDRip-Hindi-English.mkv
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Descendants 2
+http://dm01.dmasti.pk/engurd/Descendants-2-2017-HDRip-Hindi-English.mkv
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Descendants 1
+http://cdn01.dmasti.pk/engurd/Descendants-2015-HDRip-Hindi-English.mkv
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", King of Snake
 http://192.168.8.72/King.of.Snake.2020.720p.WEB-DL.HINDI.x264-KatmovieHD.tf.mkv
