@@ -20,6 +20,11 @@
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
 
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", King of Snake
+http://192.168.8.72/King.of.Snake.2020.720p.WEB-DL.HINDI.x264-KatmovieHD.tf.mkv
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Belzebuth
 http://192.168.8.72/Belzebuth.2017.UNCUT.720p.BluRay.HIN-ENG.x264.ESubs-KatmovieHD.tf.mkv
 
