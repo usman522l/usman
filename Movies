@@ -6,14 +6,28 @@
 
 
 
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
 
-http://odl2.dmasti.pk/tx/SID/Yaan-2014-HDRip.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",Tara vs Bilal
+http://odl2.dmasti.pk/mm/ind/S-T/Tara-vs-Bilal-2022-HDRip.mp4
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",Ardha Shathabdam
+http://odl2.dmasti.pk/tx/SID/Ardha-Shathabdam-2021-HDRip.mp4
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",Jaya Jaya
+http://odl2.dmasti.pk/tx/SID/Jaya-Jaya-Jaya-Jaya-Hey-2022-HDRip.mp4
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",The Contractor
 http://ndl.dmasti.pk/engurd/The-Contractor-2022-HDRip-Hindi-English.mkv
@@ -41,11 +55,8 @@ http://ndl.dmasti.pk/engurd/Hunters-2021-HDRip-Hindi-English.mkv
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",Patient Zero
 http://ndl2.dmasti.pk/engurd/Patient-Zero-2018-HDRip-Hindi-English.mkv
-
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",Yaan
+http://odl2.dmasti.pk/tx/SID/Yaan-2014-HDRip.mp4
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies", Phone Bhoot
 http://dm01.dmasti.pk/ind/O-P/Phone-Bhoot-2022-HDRip.mp4
