@@ -11,7 +11,14 @@
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
 
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
+http://192.168.8.241/Night-Drive-2022-HDRip.mp4
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",Kuntilanak 2
 http://ndl3.dmasti.pk/engurd/Kuntilanak-2-2019-HDRip-Hindi-Dubded.mp4
 
