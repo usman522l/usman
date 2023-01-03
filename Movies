@@ -10,16 +10,36 @@
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",18 Pages
-http://192.168.1.103/18-Pages-2022-CAMRip.mp4
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",Double XL
-http://192.168.1.103/Double-XL-2022-HDRip.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Big Miracle
+http://lhr.odl2.dmasti.pk/tx/engurd/Big-Miracle-2012-HDRip-Hindi-English.mkv
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", DSP
+http://lhr.ndl2.dmasti.pk/tamil/DSP-2022-HDRip.mp4
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies", Dev Bhoomi
+http://lhr.odl2.dmasti.pk/mm/ind/C-D/Dev-Bhoomi-2016-HDRip.mp4
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies", Rocket Gang
+http://lhr.ndl2.dmasti.pk/ind/Q-R/Rocket-Gang-2022-HDRip.mp4
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies", Mili
+http://lhr.dm01.dmasti.pk/ind/M-N/Mili-2022-HDRip.mp4
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", Double XL
+http://lhr.dm01.dmasti.pk/ind/C-D/Double-XL-2022-HDRip.mp4
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", Night Drive
 http://192.168.8.241/Night-Drive-2022-HDRip.mp4
