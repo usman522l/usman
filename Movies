@@ -1,9 +1,15 @@
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",srivalli
+http://lhr.dm01.dmasti.pk/SID/Srivalli-2017-HDRip.mp4
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",aatma
+http://lhr.ndl2.dmasti.pk/ind/A-B/Aatma-2013-WEBRip.mp4
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Skull
 http://lhr.ndl2.dmasti.pk/engurd/Skull-The-Mask-2020-HDRip-Hindi-Dubbed.mp4
 
