@@ -1,3 +1,32 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", SriVenna
+http://192.168.8.102/Sri%20venna.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",Mukundan
 http://lhr.odl2.dmasti.pk/tx/SID/Mukundan-Unni-Associates-2022-HDRip.mp4
@@ -6,18 +35,16 @@ http://lhr.odl2.dmasti.pk/tx/SID/Mukundan-Unni-Associates-2022-HDRip.mp4
 http://lhr.ndl.dmasti.pk/ind/M-N/Mister-Mummy-2022-HDRip.mp4
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",srivalli
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",srivalli
 http://lhr.dm01.dmasti.pk/SID/Srivalli-2017-HDRip.mp4
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",aatma
 http://lhr.ndl2.dmasti.pk/ind/A-B/Aatma-2013-WEBRip.mp4
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
-
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Skull
 http://lhr.ndl2.dmasti.pk/engurd/Skull-The-Mask-2020-HDRip-Hindi-Dubbed.mp4
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",Babe Bhangra
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Punjabi Movies",Babe Bhangra
 http://lhr.ndl2.dmasti.pk/panjabi/Babe-Bhangra-Paunde-Ne-2022-HDRip.mp4
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",Kadamban
@@ -53,7 +80,7 @@ http://lhr.dm01.dmasti.pk/engurd/Ghosting-Gloria-2021-HDRip-Hindi-Dubbed.mp4
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",Gremlin
 http://lhr.odl2.dmasti.pk/mm/engurd/Gremlin-2017-HDRip-Hindi-English.mkv
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Kids Movies", Ant Bully
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Kids Movies", Ant Bully
 http://lhr.ndl2.emasti.pk/kids/The-Ant-Bully-2006-BRRip-Hindi-English.mkv
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",Bullet train
