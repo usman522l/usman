@@ -1,8 +1,31 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", Thaanaa serndha
+http://lhr.ndl2.dmasti.pk/tamil/Thaanaa-Serndha-Koottam-2018-HDRip.mp4
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", Spyder
+http://lhr.odl2.dmasti.pk/mm/SID/Spyder-2017-HDRip.mp4
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",Trumbu Thirai
+http://lhr.cdn01.dmasti.pk/engurd/Irumbu%20Thirai-2018-HDRip.mp4
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", sardaar Gabbar Singh
+http://lhr.odl1.dmasti.pk/sx/engurd/Sardaar-Gabbar-Singh-2016-HDRip%20.mp4
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", Ala vaikunthapurramuloo
 http://lhr.ndl2.dmasti.pk/tamil/Ala-Vaikunthapurramuloo-HDRip-2020.mp4
@@ -10,14 +33,6 @@ http://lhr.ndl2.dmasti.pk/tamil/Ala-Vaikunthapurramuloo-HDRip-2020.mp4
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", Nela Ticket
 http://lhr.odl1.dmasti.pk/sx/engurd/Nela-Ticket-2018-HDRip.mp4
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Skin in Flames
 http://lhr.ndl.dmasti.pk/engurd/Skin-in-Flames-2022-HDRip-Hindi-Dubbed.mp4
 
