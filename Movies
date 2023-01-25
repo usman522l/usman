@@ -9,14 +9,41 @@
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Horns
-http://192.168.8.14/Horns.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", 
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", Thaanaa serndha
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", Dhamaka
+http://lhr.odl2.dmasti.pk/tx/SID/Dhamaka-2022-HDRip-Hindi-CAM.mp4
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", Gulu Gulu
+http://lhr.odl2.dmasti.pk/tx/SID/Gulu-Gulu-2022-HDRip.mp4
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", Enemy
+http://lhr.dm01.dmasti.pk/SID/Enemy-2021-HDRip.mp4
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", Varalaru Mukkiyam
+http://lhr.ndl.dmasti.pk/SID/Varalaru-Mukkiyam-2022-HDRip.mp4
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Narvik
+http://lhr.odl2.dmasti.pk/mm/engurd/Narvik-2022-HDRip-Hindi-English.mkv
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Kungfu Boys
+http://lhr.odl2.dmasti.pk/mm/engurd/KungFu-Boys-2016-HDRip-Hindi-Dubbed.mp4
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Wolf Hunting
+http://lhr.odl2.dmasti.pk/tx/engurd/Project-Wolf-Hunting-2022-HDRip-Hindi-Dubbed.mp4
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Kazakh Khanate
+http://lhr.odl2.dmasti.pk/tx/engurd/Kazakh-Khanate-Diamond-Sword-2016-HDRip-Hindi-Dubbed.mp4
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Kungfu King
+http://lhr.odl2.dmasti.pk/mm/engurd/Fearless-Kungfu-King-2020-HDRip-Hindi-Dubbed.mp4
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", Thaanaa serndha koottam
 http://lhr.ndl2.dmasti.pk/tamil/Thaanaa-Serndha-Koottam-2018-HDRip.mp4
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", Spyder
