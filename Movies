@@ -1,16 +1,13 @@
-#EXTM3U
-
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+http://lhr.cdn01.dmasti.pk/engurd/The-Green-Inferno-2013-BRRip-Hindi-English.mkv
+NF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", 
-
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", The Green Inferno
+http://lhr.cdn01.dmasti.pk/engurd/The-Green-Inferno-2013-BRRip-Hindi-English.mkv
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
