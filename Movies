@@ -1,26 +1,30 @@
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Punjabi Movies",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Punjabi Movies",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Punjabi Movies",
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",Dune
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", Dune
 http://lhr.ndl.dmasti.pk/engurd/Dune-2021-HDRip-Hindi-English.mkv
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", Run baby
 http://lhr.ndl.dmasti.pk/SID/Run-Baby-Run-2023-HDRip.mp4
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", The Legend
 http://lhr.ndl.dmasti.pk/SID/The-Legend-2022-HDRip.mp4
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies", Kuttey
+http://lhr.dm01.dmasti.pk/ind/K-L/Kuttey-2023-HDRip.mp4
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", The Messenger
 http://lhr.ndl.dmasti.pk/engurd/The-Messenger-The-Story-of-Joan-of-Arc-1999-HDRip-Hindi-English.mkv
 
@@ -32,6 +36,7 @@ http://lhr.ndl2.dmasti.pk/tv/The-Mandalorian/S03/The-Mandalorian-S02-E03-Eng-Hin
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Coma
 http://lhr.odl3.dmasti.pk/dw/engurd/Coma-2019-HDRip-Hindi-English.mkv
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Aporia
 http://lhr.ndl.dmasti.pk/engurd/Aporia-2019-HDRip-Hindi-Dubbed.mp4
 
