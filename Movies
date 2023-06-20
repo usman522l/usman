@@ -8,7 +8,6 @@
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
@@ -19,6 +18,9 @@
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Battle Drone
+http://lhr.cdn01.dmasti.pk/engurd/Battle-Drone-2018-HDRip-Hindi-English.mkv
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",Rise of Lycans
 http://lhr.odl1.dmasti.pk/sx/em/Underworld-Rise-of-the-Lycans-2009-BDRip-DualAudio.mkv
