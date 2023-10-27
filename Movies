@@ -2341,7 +2341,7 @@ http://dm01.dmasti.pk/tv/LOTR/S01/The-Lord-of-the-Rings-The-Rings-of-Power-S01-E
                http://lhr.myevotv.com:26841/stream/ptvbolan/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="PTV GLOBAL" tvg-logo="" group-title=" Live Tv",  Ptv Global
-               http://lhr.myevotv.com:26841/stream/ptvglobal/tracks-v1a1/mono.m3u8
+               http://lhr.myevotv.com:26841/ptvglobal/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="PTV HOME" tvg-logo="" group-title=" Live Tv",  Ptv Home
                http://lhr.myevotv.com:26841/stream/ptvhome/tracks-v1a1/mono.m3u8
@@ -2350,7 +2350,7 @@ http://dm01.dmasti.pk/tv/LOTR/S01/The-Lord-of-the-Rings-The-Rings-of-Power-S01-E
                http://lhr.myevotv.com:26841/stream/ptvnews/tracks-v1a1/mono.m3u8
    
             #EXTINF:- 1 tvg-name="TEN SPORTS" tvg-logo="" group-title=" Live Tv",  Ten Sports
-               http://lhr.myevotv.com:26841/stream/tensports/tracks-v1a1/mono.m3u8
+               http://lhr.myevotv.com:26841/tensports/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="TV ONE" tvg-logo="" group-title=" Live Tv",  TVONE
                http://lhr.myevotv.com:26841/stream/tvone/tracks-v1a1/mono.m3u8
