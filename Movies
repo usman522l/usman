@@ -2211,8 +2211,8 @@ http://dm01.dmasti.pk/tv/LOTR/S01/The-Lord-of-the-Rings-The-Rings-of-Power-S01-E
 
 
             #EXTINF:-1 tvg-name="PTV SPORTS" tvg-logo="" group-title=" Live Tv",PTV SPORTS
-          http://103.83.20.162:26841/stream/ptvsports/tracks-v1a1/mono.m3u8
-            
+            http://lhr.myevotv.com:26841/PTVSPORTS/tracks-v1a1/mono.m3u8
+          
             #EXTINF:-1 tvg-name="AL QURAN" tvg-logo="" group-title=" Live Tv",Al Quran
               http://103.83.20.162:26841/stream/alquran/tracks-v1a1/mono.m3u8
    
