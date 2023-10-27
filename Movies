@@ -2211,154 +2211,155 @@ http://dm01.dmasti.pk/tv/LOTR/S01/The-Lord-of-the-Rings-The-Rings-of-Power-S01-E
 
 
             #EXTINF:-1 tvg-name="PTV SPORTS" tvg-logo="" group-title=" Live Tv",PTV SPORTS
-                http://103.24.96.74/stream/ptvsports/tracks-v1a1/mono.m3u8
+                http://103.83.20.162:26841/stream/ptvsports/tracks-v1a1/mono.m3u8
             
             #EXTINF:-1 tvg-name="AL QURAN" tvg-logo="" group-title=" Live Tv",Al Quran
-              http://103.24.96.74/stream/alquran/tracks-v1a1/mono.m3u8
+              http://103.83.20.162:26841/stream/alquran/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="AL SUNNA" tvg-logo="" group-title=" Live Tv",Al Sunna
-               http://103.24.96.74/stream/alsunah/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/alsunah/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="ARY QTV" tvg-logo="" group-title=" Live Tv",ARY Qtv
-               http://103.24.96.74/stream/qtv/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/qtv/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="MADANI CHANNEL" tvg-logo="" group-title=" Live Tv",Madani Channel
-               http://103.24.96.74/stream/madanichannel/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/madanichannel/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="PTV SPORTS" tvg-logo="" group-title=" Live Tv",PTV Sports
-               http://103.24.96.74/stream/ptvsports/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/ptvsports/tracks-v1a1/mono.m3u8
+            http://lhr.myevotv.com:26841/PTVSPORTS/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="92 NEWS " tvg-logo="" group-title=" Live Tv",92 News HD
-               http://103.24.96.74/stream/92newshd/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/92newshd/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="A SPORTS" tvg-logo="" group-title=" Live Tv",A Sports HD
-               http://103.24.96.74/stream/asportshd/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/asportshd/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="AAJ NEWS" tvg-logo="" group-title=" Live Tv",Aaj News
-               http://103.24.96.74/stream/aajnews/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/aajnews/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="A PLUS" tvg-logo="" group-title=" Live Tv",APlus
-               http://103.24.96.74/stream/aplus/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/aplus/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="ARUJ TV" tvg-logo="" group-title=" Live Tv",Aruj TV
-               http://103.24.96.74/stream/aruj/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/aruj/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="ARY DIGITAL" tvg-logo="" group-title=" Live Tv",ARY Digital
-               http://103.24.96.74/stream/AryDigital/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/AryDigital/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="ARY MUSIK" tvg-logo="" group-title=" Live Tv",Ary Musik
-               http://103.24.96.74/stream/musik/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/musik/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="ARY NEWS" tvg-logo="" group-title=" Live Tv",ARY News
-               http://103.24.96.74/stream/arynews/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/arynews/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="ARY ZINDAGI" tvg-logo="" group-title=" Live Tv",Ary Zindagi
-               http://103.24.96.74/stream/AryZindagi/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/AryZindagi/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="ATV" tvg-logo="" group-title=" Live Tv",ATv
-               http://103.24.96.74/stream/atv/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/atv/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="AVT KHYBER" tvg-logo="" group-title=" Live Tv",AVT Khyber
-               http://103.24.96.74/stream/khybertv/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/khybertv/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="BOL ENTERTAINMENT" tvg-logo="" group-title=" Live Tv",BOL Entertainment
-               http://103.24.96.74/stream/bolent/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/bolent/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="BOL NEWS" tvg-logo="" group-title=" Live Tv",Bol News
-               http://103.24.96.74/stream/bolnews/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/bolnews/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="CARTOON NETWORD" tvg-logo="" group-title=" Live Tv",Cartoon Network HD
-               http://103.24.96.74/stream/cartoonnetwork/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/cartoonnetwork/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="CINEMACHI KIDS" tvg-logo="" group-title=" Live Tv",Cinemachi Kids
-               http://103.24.96.74/stream/cinekids/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/cinekids/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="DAWN NEWS" tvg-logo="" group-title=" Live Tv",Dawn News
-               http://103.24.96.74/stream/dawnnews/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/dawnnews/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="DUNYA NEWS" tvg-logo="" group-title=" Live Tv",Dunya News
-               http://103.24.96.74/stream/dunyanews/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/dunyanews/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="EXPRESS ENT" tvg-logo="" group-title=" Live Tv",Express ENT
-               http://103.24.96.74/stream/expressent/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/expressent/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="EXPRESS NEWS" tvg-logo="" group-title=" Live Tv"7,Express News
-               http://103.24.96.74/stream/expressnews/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/expressnews/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="FILMAX" tvg-logo="" group-title=" Live Tv",Filmax
-               http://103.24.96.74/stream/filmax/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/filmax/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="FILM WORLD" tvg-logo="" group-title=" Live Tv",FilmWorld
-               http://103.24.96.74/stream/filmworld/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/filmworld/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="GEO KAHANI" tvg-logo="" group-title=" Live Tv",GEO Kahani
-               http://103.24.96.74/stream/geokahani/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/geokahani/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="GEO NEWS" tvg-logo="" group-title=" Live Tv",Geo News
-               http://103.24.96.74/stream/geonews/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/geonews/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="GEO SUPER" tvg-logo="" group-title=" Live Tv",Geo Super
-               http://103.24.96.74/stream/geosuper/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/geosuper/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="GEO TAZZ" tvg-logo="" group-title=" Live Tv",Geo Tazz
-               http://103.24.96.74/stream/geotazz/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/geotazz/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="GEO TELEVISION" tvg-logo="" group-title=" Live Tv",Geo Television
-               http://103.24.96.74/stream/geoent/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/geoent/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="GNN NEWS" tvg-logo="" group-title=" Live Tv",GNN News
-               http://103.24.96.74/stream/gnn/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/gnn/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="HUM NEWS" tvg-logo="" group-title=" Live Tv",Hum News
-               http://103.24.96.74/stream/humnews/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/humnews/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="HUM SITARAY" tvg-logo="" group-title=" Live Tv",  Hum Sitaray
-               http://103.24.96.74/stream/humsitaray/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/humsitaray/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="HUM TV" tvg-logo="" group-title=" Live Tv",  Hum TV
-               http://103.24.96.74/stream/humtv/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/humtv/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="KIDZONE" tvg-logo="" group-title=" Live Tv",  KidZone+ HD
-               http://103.24.96.74/stream/kidzone/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/kidzone/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="KTN NEWS" tvg-logo="" group-title=" Live Tv",  KTN News
-               http://103.24.96.74/ktn/ktnnews/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/ktn/ktnnews/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="MASALA TV" tvg-logo="" group-title=" Live Tv",  Masala Tv
-               http://103.24.96.74/stream/masalatv/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/masalatv/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="" group-title=" Live Tv",  Nickelodeon
-               http://103.24.96.74/stream/nick/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/nick/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="PLAY ENT" tvg-logo="" group-title=" Live Tv",  Play Ent
-               http://103.24.96.74/stream/playtv/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/playtv/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="POP" tvg-logo="" group-title=" Live Tv",  PoP
-               http://103.24.96.74/stream/pop/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/pop/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="PTV BOLAN" tvg-logo="" group-title=" Live Tv",  Ptv Bolan
-               http://103.24.96.74/stream/ptvbolan/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/ptvbolan/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="PTV GLOBAL" tvg-logo="" group-title=" Live Tv",  Ptv Global
-               http://103.24.96.74/stream/ptvglobal/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/ptvglobal/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="PTV HOME" tvg-logo="" group-title=" Live Tv",  Ptv Home
-               http://103.24.96.74/stream/ptvhome/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/ptvhome/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="PTV NEWS" tvg-logo="" group-title=" Live Tv",  PTv News
-               http://103.24.96.74/stream/ptvnews/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/ptvnews/tracks-v1a1/mono.m3u8
    
             #EXTINF:- 1 tvg-name="TEN SPORTS" tvg-logo="" group-title=" Live Tv",  Ten Sports
-               http://103.24.96.74/stream/tensports/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/tensports/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="TV ONE" tvg-logo="" group-title=" Live Tv",  TVONE
-               http://103.24.96.74/stream/tvone/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/tvone/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="URUDU 1" tvg-logo="" group-title=" Live Tv",  Urdu 1
-               http://103.24.96.74/stream/urdu1/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/urdu1/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="WASEB" tvg-logo="" group-title=" Live Tv",  WASEB
-               http://103.24.96.74/stream/waseb/tracks-v1a1/mono.m3u8
+               http://103.83.20.162:26841/stream/waseb/tracks-v1a1/mono.m3u8
       
       
       
