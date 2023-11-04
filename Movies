@@ -2251,22 +2251,22 @@ http://dm01.dmasti.pk/tv/LOTR/S01/The-Lord-of-the-Rings-The-Rings-of-Power-S01-E
 
 
             #EXTINF:-1 tvg-name="PTV SPORTS" tvg-logo="" group-title=" Live Tv",PTV SPORTS
-                http://lhr.myevotv.com:26841/PTVSPORTS/tracks-v1a1/mono.m3u8
+            http://lhr.myevotv.com:26841/PTVSPORTS/playlist.m3u8
             
             #EXTINF:-1 tvg-name="AL QURAN" tvg-logo="" group-title=" Live Tv",Al Quran
-              http://lhr.myevotv.com:26841/stream/alquran/tracks-v1a1/mono.m3u8
+              http://lhr.myevotv.com:26841/stream/alquran/playlist.m3u8
    
             #EXTINF:-1 tvg-name="AL SUNNA" tvg-logo="" group-title=" Live Tv",Al Sunna
-            http://watch.dmasti.pk/stream/alsunah/tracks-v1a1/mono.m3u8
+            http://watch.dmasti.pk/stream/alsunah/playlist.m3u8
    
             #EXTINF:-1 tvg-name="ARY QTV" tvg-logo="" group-title=" Live Tv",ARY Qtv
-               http://lhr.myevotv.com:26841/stream/qtv/tracks-v1a1/mono.m3u8
+             http://watch.dmasti.pk/stream/qtv/playlist.m3u8
    
             #EXTINF:-1 tvg-name="MADANI CHANNEL" tvg-logo="" group-title=" Live Tv",Madani Channel
-               http://lhr.myevotv.com:26841/stream/madanichannel/tracks-v1a1/mono.m3u8
+               http://watch.dmasti.pk/stream/madanichannel/playlist.m3u8
    
             #EXTINF:-1 tvg-name="PTV SPORTS" tvg-logo="" group-title=" Live Tv",PTV Sports
-               http://lhr.myevotv.com:26841/PTVSPORTS/tracks-v1a1/mono.m3u8
+               http://lhr.myevotv.com:26841/PTVSPORTS/playlist.m3u8
            
    
             #EXTINF:-1 tvg-name="92 NEWS " tvg-logo="" group-title=" Live Tv",92 News HD
