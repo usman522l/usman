@@ -2273,7 +2273,7 @@ http://dm01.dmasti.pk/tv/LOTR/S01/The-Lord-of-the-Rings-The-Rings-of-Power-S01-E
                http://lhr.myevotv.com:26841/stream/92newshd/tracks-v1a1/mono.m3u8
    
             #EXTINF:-1 tvg-name="A SPORTS" tvg-logo="" group-title=" Live Tv",A Sports HD
-            http://lhr.myevotv.com:26841/A-Sports-HD/tracks-v1a1/mono.m3u8
+            http://lhr.myevotv.com:26841/A-Sports-HD/playlist.m3u8
    
             #EXTINF:-1 tvg-name="AAJ NEWS" tvg-logo="" group-title=" Live Tv",Aaj News
                http://lhr.myevotv.com:26841/stream/aajnews/tracks-v1a1/mono.m3u8
