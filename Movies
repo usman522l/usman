@@ -5,9 +5,6 @@
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Punjabi Movies",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Punjabi Movies",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
-
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
@@ -15,11 +12,37 @@
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
 
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", Salaar part 1
+http://lhr.ndl2.dmasti.pk/tamil/Salaar-2023-CAMRip.mkv
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", Pulikkuthi Pandi
+http://lhr.hindi.dmasti.pk/tamil/Pulikkuthi-Pandi-2021-HDRip.mp4
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", Toby Toby
+http://lhr.hindi.dmasti.pk/tamil/Toby-2023-HDRip.mp4
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Punjabi Movies", Buhey Bariyan
 http://lhr.hindi.dmasti.pk/Punjabi/Buhey-Bariyan-2023-HDRip.mp4
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", 7 Assassins
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies", Dry Day
+http://lhr.hindi.dmasti.pk/ind/C-D/Dry-Day-2023-HDRip.mp4
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies", Sajini Shinde ka Viral Video
+http://lhr.hindi.dmasti.pk/ind/S-T/Sajini-Shinde-Ka-Viral-Video-2023-HDRip.mp4
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Aquaman Lost Kingdom
+http://lhr.hindi.dmasti.pk/engurd/Aquaman-The-Lost-Kingdom-2023-CAMRip-Hin-Eng.mkv
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Rebel Moon
+http://lhr.hindi.dmasti.pk/engurd/Rebel-Moon-Part-One-A-Child-of-Fire-2023-HDRip-Hin-Eng.mkv
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",7 Assassins
 http://lhr.hindi.dmasti.pk/engurd/7-Assassins-2013-HDRip-Hindi-Dubbed.mp4
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Wandering Earth 2
