@@ -6,6 +6,16 @@
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Punjabi Movies",
 
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Series" The Aam Aadmin 01
+http://192.168.100.4:8080/The-Aam-Aadmi-Family-S01E01-Deewar.mkv
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Series" The Aam Aadmin 02
+http://192.168.100.4:8080/The-Aam-Aadmi-Family-S01E02-Deewar.mkv
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Series" The Aam Aadmin 03
+http://192.168.100.4:8080/The-Aam-Aadmi-Family-S01E03-Deewar.mkv
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Series" The Aam Aadmin 04
+http://192.168.100.4:8080/The-Aam-Aadmi-Family-S01E04-Deewar.mkv
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Series" The Aam Aadmin 05
+http://192.168.100.4:8080/The-Aam-Aadmi-Family-S01E05-Deewar.mkv
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies", captain Miller
 http://lhr.ndl2.dmasti.pk/tamil/Captain-Miller-2024-CAMRip.mkv
