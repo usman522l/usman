@@ -3,19 +3,44 @@
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Punjabi Movies",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Punjabi Movies",
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Punjabi Movies",
-
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Punjabi Movies",
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Series" The Aam Aadmin 01
-http://192.168.100.4:8080/The-Aam-Aadmi-Family-S01E01-Deewar.mkv
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Series" The Aam Aadmin 02
-http://192.168.100.4:8080/The-Aam-Aadmi-Family-S01E02-Deewar.mkv
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Series" The Aam Aadmin 03
-http://192.168.100.4:8080/The-Aam-Aadmi-Family-S01E03-Deewar.mkv
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Series" The Aam Aadmin 04
-http://192.168.100.4:8080/The-Aam-Aadmi-Family-S01E04-Deewar.mkv
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Series" The Aam Aadmin 05
-http://192.168.100.4:8080/The-Aam-Aadmi-Family-S01E05-Deewar.mkv
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",
+
+,
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Aquaman Lost Kingdom
+http://lhr.hindi.dmasti.pk/engurd/Aquaman-and-the-Lost-Kingdom-2023-HDRip-Hindi-English.mkv
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", Neru
+http://lhr.hindi.dmasti.pk/tamil/Neru-2023-HDRip.mp4
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies", captain Miller
 http://lhr.ndl2.dmasti.pk/tamil/Captain-Miller-2024-CAMRip.mkv
@@ -28,23 +53,28 @@ http://lhr.hindi.dmasti.pk/ind/G-H/Guthlee-Ladoo-2023-HDRip.mp4
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",Salaar
 http://lhr.hindi.dmasti.pk/tamil/Salaar-2023-HDRip-Hindi-CAM.mp4
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", Meter
 http://lhr.ndl2.dmasti.pk/tamil/Meter-2023-HDRip.mp4
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", Neru
-http://lhr.hindi.dmasti.pk/tamil/Neru-2023-HDRip.mp4
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",Communion Girl
 http://lhr.hindi.dmasti.pk/engurd/The-Communion-Girl-2023-HDRip-Hindi-Dubbed.mp4
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed",The Ashes
 http://lhr.eng.dmasti.pk/engurd/From-the-Ashes-2024-HDRip-Hindi-English.mkv
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Shock Wave
 http://lhr.ndl2.dmasti.pk/engurd/Shock-Wave-2-2020-Hindi-Chinese.mkv
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Shock wave 2
 http://lhr.odl3.dmasti.pk/mx/engurd/Shockwave-Countdown-to-Disaster-2018-HDRip-Hindi-English.mkv
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", The Marvels
 http://lhr.eng.dmasti.pk/engurd/The-Marvels-2023-HDRip-HinCAM-Eng.mkv
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", 100 Feet
 http://lhr.hindi.dmasti.pk/engurd/100-Feet-2008-HDRip-Hindi-English.mkv
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Lift
 http://lhr.eng.dmasti.pk/engurd/Lift-2024-HDRip-Hindi-English.mkv
 
@@ -68,6 +98,7 @@ http://lhr.hindi.dmasti.pk/tamil/Dear-Sathya-2022-HDRip.mp4
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", Jayamma Panchayathi
 http://lhr.hindi.dmasti.pk/tamil/Jayamma-Panchayathi-2022-HDRip.mp4
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", Kaathal The Core
 http://lhr.ndl2.dmasti.pk/tamil/Kaathal-The-Core-2023-HDRip.mp4
 
@@ -130,10 +161,6 @@ http://lhr.hindi.dmasti.pk/tamil/Kida-2023-HDRip.mp4
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies",Sasanasabha
 http://lhr.hindi.dmasti.pk/tamil/Sasanasabha-2022-HDRip.mp4
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", Salaar part 1
-http://lhr.ndl2.dmasti.pk/tamil/Salaar-2023-CAMRip.mkv
-
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Tamil Movies", Pulikkuthi Pandi
 http://lhr.hindi.dmasti.pk/tamil/Pulikkuthi-Pandi-2021-HDRip.mp4
 
@@ -148,9 +175,6 @@ http://lhr.hindi.dmasti.pk/ind/C-D/Dry-Day-2023-HDRip.mp4
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Indian Movies", Sajini Shinde ka Viral Video
 http://lhr.hindi.dmasti.pk/ind/S-T/Sajini-Shinde-Ka-Viral-Video-2023-HDRip.mp4
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Aquaman Lost Kingdom
-http://lhr.hindi.dmasti.pk/engurd/Aquaman-The-Lost-Kingdom-2023-CAMRip-Hin-Eng.mkv
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Hindi Dubbed", Rebel Moon
 http://lhr.hindi.dmasti.pk/engurd/Rebel-Moon-Part-One-A-Child-of-Fire-2023-HDRip-Hin-Eng.mkv
